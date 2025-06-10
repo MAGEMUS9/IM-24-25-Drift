@@ -1,0 +1,8 @@
+.rad {
+    display: flex;
+}
+
+.rad > div {
+    flex-basis: 100px;
+    flex-grow: 1;
+}
